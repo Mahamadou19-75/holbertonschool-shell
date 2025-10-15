@@ -1,0 +1,2 @@
+#!/bin/bash
+export CC=gcc CFLAGS='-O2 -fomit-frame-pointer' PATH="$PATH:/home/julien/bin"
